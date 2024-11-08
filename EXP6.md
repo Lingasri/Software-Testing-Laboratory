@@ -39,7 +39,8 @@ else:
 ~~~
 
 ### Output:
-![image](https://github.com/user-attachments/assets/2324a6e5-df74-4141-a992-2fe593d10508)
+![image](https://github.com/user-attachments/assets/7d81c620-76cb-4f41-88b4-f6ef4cb086ed)
+
 
 
 ### Result:
