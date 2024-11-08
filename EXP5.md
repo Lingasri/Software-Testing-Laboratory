@@ -54,7 +54,8 @@ except:
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/4f27bce7-3f00-4192-b5d0-12534d90c3a8)
+![image](https://github.com/user-attachments/assets/44fb92d1-6693-436c-a1bf-3b5eed9b8ffb)
+
 
 
 ### Result:
