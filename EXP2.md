@@ -1,6 +1,6 @@
 # Ex.No: 2   Matrix Multiplication 
 
-### DATE:                                                                            
+### DATE: 23/08/2024                                                                          
 ### REGISTER NUMBER : 212221040089
 
 ### AIM: 
@@ -73,7 +73,8 @@ else:
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/5b9f1fb6-8be5-4e7f-a7dd-25efb0ecd399)
+![image](https://github.com/user-attachments/assets/a3c3498e-d8a8-474d-9640-bf6a948d07fe)
+
 
 ### Result:
 Thus, the python program for matrix multiplication is implemented and the causes for its failure is introspected successfully.
