@@ -1,5 +1,5 @@
 # Ex.No: 4 check the given number is Armstrong number or not and inspect for failures.
-### DATE:                                                                            
+### DATE: 06/09/2024                                                                           
 ### REGISTER NUMBER : 212221040089
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
@@ -34,7 +34,8 @@ else:
     print("Enter a Positive Integer.")
 ```
 ### Output:
-![image](https://github.com/user-attachments/assets/c8953bd0-1f9c-4f89-a52b-4752411dc029)
+![image](https://github.com/user-attachments/assets/614790e2-c2e7-47da-8f88-d0b122ac2b8b)
+
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
