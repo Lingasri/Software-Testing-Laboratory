@@ -1,5 +1,5 @@
 # Ex.No: 5 - BINARY SEARCH
-### DATE:
+### DATE: 13/09/2024
 ### REGISTER NUMBER: 212221040089
 ### AIM: 
 Write a python program to check the number is Armstrong number or not and inspect for failures.
@@ -54,7 +54,8 @@ except:
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/44fb92d1-6693-436c-a1bf-3b5eed9b8ffb)
+![image](https://github.com/user-attachments/assets/dfaa4250-f691-4d4e-a242-0f70e0c6e9de)
+
 
 
 
