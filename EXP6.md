@@ -1,6 +1,6 @@
 # Ex.No: 6 To check whether the string is Palindrome and generate test cases.
 
-### DATE:                                                                            
+### DATE: 20/09/2024                                                                            
 ### REGISTER NUMBER : 212221040089
 ### AIM: 
 Write a Python program to check whether the string is Palindrome and generate test cases. 
@@ -39,7 +39,8 @@ else:
 ~~~
 
 ### Output:
-![image](https://github.com/user-attachments/assets/7d81c620-76cb-4f41-88b4-f6ef4cb086ed)
+![image](https://github.com/user-attachments/assets/19aa8cd8-a02f-4dd9-ac5f-72db9aaa0e45)
+
 
 
 
