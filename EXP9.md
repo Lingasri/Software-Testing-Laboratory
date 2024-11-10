@@ -42,7 +42,8 @@ def test_2():
 
 
 ### Output:
-![image](https://github.com/user-attachments/assets/b273bbea-805d-4f13-826a-a4f99f472cca)
+![image](https://github.com/user-attachments/assets/ff5c36a4-3c05-4aa5-bce1-31eeb88910db)
+
 
 
 
