@@ -1,6 +1,6 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
-### DATE:                                                                         
+### DATE: 16/08/2024                                                                        
 ### REGISTER NUMBER : 212221040089
 
 ### AIM:  
@@ -105,15 +105,21 @@ iterate()
 ### Output:
 
 a)
-![image](https://github.com/user-attachments/assets/e9cbea8b-8302-457b-aa8a-293dd52f59b4)
+![image](https://github.com/user-attachments/assets/0c54d3bf-2457-4320-be28-02fdfe5b3d32)
+
+
 b)
-![image](https://github.com/user-attachments/assets/260b2303-3c7f-473c-b4e2-eb05fb0830d9)
+![image](https://github.com/user-attachments/assets/5aad4051-6bf8-4696-b736-389a750a7a1a)
+
 c)
-![image](https://github.com/user-attachments/assets/7f17eaf7-154c-4265-b09f-10f6e6357a82)
+![image](https://github.com/user-attachments/assets/0f071498-dd0e-43c0-a18f-75f0d1e61f0e)
+
 d)
-![image](https://github.com/user-attachments/assets/b2b5040f-2510-43eb-bbcc-0a0c49d6a032)
+![image](https://github.com/user-attachments/assets/b467f91c-a685-4029-a647-782b7c80d6a5)
+
 e)
-![image](https://github.com/user-attachments/assets/7d650ebf-65a4-4bcd-a8e8-f7d466449b41)
+![image](https://github.com/user-attachments/assets/87e0a714-f7e1-4380-a17b-929c4f7e3f02)
+
 
 
 ### Result:
